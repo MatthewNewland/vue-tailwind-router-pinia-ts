@@ -1,4 +1,4 @@
 export default [{
   path: '',
-  component: null
+  component: () => null // Your component goes here
 }]
